@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BreedsOfBarks/static/css/main.a51dd479.css",
+    "main.js": "/BreedsOfBarks/static/js/main.185db796.js",
+    "static/js/787.a6a2e828.chunk.js": "/BreedsOfBarks/static/js/787.a6a2e828.chunk.js",
+    "index.html": "/BreedsOfBarks/index.html",
+    "main.a51dd479.css.map": "/BreedsOfBarks/static/css/main.a51dd479.css.map",
+    "main.185db796.js.map": "/BreedsOfBarks/static/js/main.185db796.js.map",
+    "787.a6a2e828.chunk.js.map": "/BreedsOfBarks/static/js/787.a6a2e828.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a51dd479.css",
+    "static/js/main.185db796.js"
+  ]
+}
