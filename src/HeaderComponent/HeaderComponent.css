@@ -1,13 +1,17 @@
 .divStyles {
-    justify-content: center;
-    width: 510px;
-    margin: 0 auto
+    margin: 0 auto;
+
+
 }
+
+
 
 .headerStyles {
     text-decoration: none;
     text-align: center;
-    color: orange
+    color: orange;
+
+
 }
 
 .gitImgStyles {
@@ -20,19 +24,20 @@
 
 }
 
-.linkedinImgStyles {
-    height: 42px;
-    width: 42px;
-    margin-top: 0px;
-    right: 80px;
-    position: absolute;
-    float: right;
-}
 
 span {
     color: black;
 }
 
 .header {
-    text-decoration: none
+    text-decoration: none;
+    justify-content: center;
+
+}
+
+@media (max-width: 500px) {
+    .gitImgStyles {
+        max-width: 20px;
+        max-height: 20px;
+    }
 }

@@ -41,10 +41,13 @@ const Search = () => {
     });
 
     return (
-        <div className="searchDiv">
-            <input className="searchBar" type="text/searchBar" id="searchinput" placeholder='Search for dog breeds..'
-                onChange={inputChangeHandler} />
-            <a class="searchButton" href="#Con">&#128269;</a>
+        <div className="mainDiv">
+
+            <div className="searchDiv">
+                <input className="searchBar" type="text/searchBar" id="searchinput" placeholder='Search for dog breeds..'
+                    onChange={inputChangeHandler} />
+                <a class="searchButton" href="#Con">&#128269;</a>
+            </div>
         </div>
     )
 }
